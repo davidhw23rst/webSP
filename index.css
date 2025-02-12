@@ -1,0 +1,116 @@
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-image: url('https://static.vecteezy.com/system/resources/previews/009/749/967/non_2x/wave-background-in-blue-color-with-line-elements-technology-startup-game-suitable-for-websites-mobile-applications-posters-games-printing-and-more-free-vector.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed;
+        }
+            
+        
+        
+
+        header {
+            border-radius: 14px;
+            padding: 10px 10px;
+            text-align: center;
+            box-shadow: 0 0 20px #000000ce;
+            backdrop-filter: blur(28px);
+            background-size: cover;
+            background-repeat: no-repeat;
+            min-width: 100%;
+            
+            
+        }
+        header h1{
+            color: rgb(21, 0, 89)
+        }
+
+        .sub-ttl{
+            color: #191e4bb9;
+        }
+        
+        nav a {
+            margin: 0 15px;
+            color: #000000;
+            text-decoration: none;
+        }
+        
+        section {
+            margin: 20px 20% 20px 20%;
+            padding: 20px;
+            background: transparent;
+            border: 2px solid rgba(69, 72, 106, 0.421);
+            backdrop-filter: blur(17px);
+            border-radius: 20px;
+            box-shadow: 0 0 30px rgba(26, 26, 26, 0.753);
+            color: rgba(37, 37, 37, 0.911);
+        }
+
+        
+        
+        h2 {
+            color: rgba(29, 29, 29, 0.747);
+
+        }
+
+        h3 {
+            color: rgba(1, 14, 41, 0.911);
+        }
+
+        a {
+            color: rgb(0, 36, 90);
+        }
+
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #4665839c;
+            color: rgb(238, 238, 238);
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        
+        .form-1 {
+            background-color: #2175ce3a;
+            box-shadow: 0 0 10px rgba(83, 83, 83, 0.514);
+            border-radius: 3px;
+        }
+        
+        #nombre {
+            border-radius: 5px;
+            border: #000000;
+        }
+        #email {
+            border-radius: 5px;
+            border: #000000;
+        }
+
+        #enviar {
+            border-radius: 5px;
+            border: #000000;
+        }
+
+
+        .text-1 {
+            margin: 15px;
+            box-shadow: 0 0 20px rgba(32, 26, 26, 0.774);
+        
+        }
+        
+        span {
+            color: #000000;
+        }
+        
+        footer {
+            border-radius: 5px;
+            box-shadow: 0 0 17px black;
+        
+        }
+
+        footer a {
+            color: rgb(11, 27, 71);
+        }
